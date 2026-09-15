@@ -10,6 +10,7 @@ Documentation :
 * [Build Instructions](#build-instructions)
 * [Architecture](#architecture)
 * [FlexDMD API](./FlexDMD_API.md)
+* [FlexDMD Studio](../FlexDMDStudio/README.md): a cross-platform (browser based) scene editor with live preview
 * [Using FlexDMD with UltraDMD tables](./UltraDMD.md)
 * [Embedding the DMD inside VPX](./VPXDMD.md)
 * [Adding a DMD to latest tables from JPSalas](./JPSalas.md)
